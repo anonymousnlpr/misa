@@ -2,6 +2,7 @@
 This is the source code of the project MIsA:  http://web.informatik.uni-mannheim.de/misa/
 <h2>INSTALL</h2>  
 1) download and install tt4j from https://reckart.github.io/tt4j/ and copy "org.annolab.tt4j-1.2.1.jar" into the project lib folder.  
+
 2) edit the file "data/properties" and specify the following properties:  
   
   treetaggerhome	<path of your "TreeTagger" installation folder>  
