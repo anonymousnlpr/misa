@@ -16,12 +16,13 @@ and copy them to the project "models" folder.
 
 <h2>HOW TO RUN:</h2>
 compile the project and run from command line:  
+
 java -cp ./lib:./lib/* de.unima.multilingual.MIsA language inputFolder outputFile  
   
 where:  
-<language> is one from DE,EN,ES,FR,IT and NL;  
-<inputFolder> is the folder containing all the ".txt" files to be processed;  
-<outputFile> is the name of the otput file thaht will contatins  the extracted tuples.   
+language is one from DE,EN,ES,FR,IT and NL;  
+inputFolder is the folder containing all the ".txt" files to be processed;  
+outputFile is the name of the otput file thaht will contatins  the extracted tuples.   
   
 Our source code is licensed under a Creative Commons Attribution 4.0 International (CC BY-NC 4.0) License: https://creativecommons.org/licenses/by-nc/4.0/.  
 For the Stanford Log-linear Part-Of-Speech Tagger and for the TreeTagger please refer to the corresponding licenses.  
